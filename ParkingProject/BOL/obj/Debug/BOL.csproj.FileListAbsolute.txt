@@ -1,0 +1,46 @@
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\BOL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\BOL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\DAL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\EntityFramework.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\DAL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\DAL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\bin\Debug\EntityFramework.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\obj\Debug\BOL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\BOL\obj\Debug\BOL.pdb
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\obj\Debug\BOL.dll
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\obj\Debug\BOL.pdb
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\bin\Debug\BOL.dll
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\bin\Debug\BOL.pdb
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\bin\Debug\DAL.dll
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\bin\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\bin\Debug\DAL.pdb
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\bin\Debug\DAL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\bin\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\bin\Debug\EntityFramework.xml
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\BOL\obj\Debug\BOL.csproj.CopyComplete
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\BOL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\BOL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\DAL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\DAL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\DAL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\obj\Debug\BOL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\obj\Debug\BOL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\BOL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\EntityFramework.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\Entities.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\EntityFramework.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\obj\Debug\BOL.csproj.CopyComplete
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\Geolocation.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\BOL\bin\Debug\Geolocation.pdb

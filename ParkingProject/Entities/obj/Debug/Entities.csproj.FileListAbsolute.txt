@@ -1,0 +1,42 @@
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\bin\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\bin\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\obj\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\obj\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\bin\Debug\DAL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\bin\Debug\EntityFramework.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\bin\Debug\DAL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\bin\Debug\DAL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\bin\Debug\EntityFramework.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\bin\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\bin\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\bin\Debug\DAL.dll
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\bin\Debug\EntityFramework.dll
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\bin\Debug\DAL.pdb
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\bin\Debug\DAL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\bin\Debug\EntityFramework.xml
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\obj\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\‏‏תיקיה חדשה\ParkingProject\Entities\obj\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\DAL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\EntityFramework.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\DAL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\DAL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\EntityFramework.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\obj\Debug\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\obj\Debug\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\Entities.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\obj\Debug\Entities.csproj.CopyComplete
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\Geolocation.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\Entities\bin\Debug\Geolocation.pdb
